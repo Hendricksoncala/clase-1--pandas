@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carlos Ruiz",
+        "edad": 30,
+        "compras": [
+            {"producto": "Laptop", "precio": 1200},
+            {"producto": "Mouse", "precio": 25}
+        ]
+    }
+]
