@@ -1,11 +1,17 @@
 [
     {
-        "id": 1,
-        "nombre": "Carlos Ruiz",
-        "edad": 30,
-        "compras": [
-            {"producto": "Laptop", "precio": 1200},
-            {"producto": "Mouse", "precio": 25}
-        ]
+        "Nombre": "Juan",
+        "Edad": 25,
+        "Compras": "cafe rojo"
+    },
+    {
+        "Nombre": "Ana",
+        "Edad": 33,
+        "Compras": "pan dulce"
+    },
+    {
+        "Nombre": "paola",
+        "Edad": 23,
+        "Compras": "cafe helado"
     }
 ]
