@@ -13,5 +13,10 @@
         "Nombre": "paola",
         "Edad": 23,
         "Compras": "cafe helado"
+    },
+    {
+        "Nombre": "Maria Griselina",
+        "Edad": 67,
+        "Compras": "Papas pequenas"
     }
 ]

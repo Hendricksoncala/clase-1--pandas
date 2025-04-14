@@ -1,0 +1,372 @@
+[
+    {
+        "Date": "7/22/2024",
+        "Client": "Lewis, Jackson and Gomez",
+        "Product": "Product1",
+        "Category": "A",
+        "Quantity": 48,
+        "Unit_Price": 34.75,
+        "Region": "South",
+        "TotalMoney": 1668.0
+    },
+    {
+        "Date": "1/30/2024",
+        "Client": "Blackwell Ltd",
+        "Product": "Product2",
+        "Category": "A",
+        "Quantity": 44,
+        "Unit_Price": 76.66,
+        "Region": "North",
+        "TotalMoney": 3373.04
+    },
+    {
+        "Date": "11/24/2024",
+        "Client": "Molina, Hamilton and Juarez",
+        "Product": "Product5",
+        "Category": "D",
+        "Quantity": 3,
+        "Unit_Price": 12.68,
+        "Region": "South",
+        "TotalMoney": 38.04
+    },
+    {
+        "Date": "11/10/2024",
+        "Client": "Lester Inc",
+        "Product": "Product2",
+        "Category": "A",
+        "Quantity": 36,
+        "Unit_Price": 27.9,
+        "Region": "West",
+        "TotalMoney": 1004.4
+    },
+    {
+        "Date": "4/24/2024",
+        "Client": "Allen-Cross",
+        "Product": "Product2",
+        "Category": "D",
+        "Quantity": 38,
+        "Unit_Price": 35.04,
+        "Region": "North",
+        "TotalMoney": 1331.52
+    },
+    {
+        "Date": "3/13/2024",
+        "Client": "Bell, Alexander and Hines",
+        "Product": "Product2",
+        "Category": "D",
+        "Quantity": 22,
+        "Unit_Price": 35.01,
+        "Region": "South",
+        "TotalMoney": 770.22
+    },
+    {
+        "Date": "8/7/2024",
+        "Client": "Ramos Ltd",
+        "Product": "Product3",
+        "Category": "A",
+        "Quantity": 6,
+        "Unit_Price": 44.19,
+        "Region": "East",
+        "TotalMoney": 265.14
+    },
+    {
+        "Date": "3/20/2024",
+        "Client": "Shaw-Horton",
+        "Product": "Product3",
+        "Category": "C",
+        "Quantity": 3,
+        "Unit_Price": 75.68,
+        "Region": "North",
+        "TotalMoney": 227.04
+    },
+    {
+        "Date": "1/21/2025",
+        "Client": "Schmitt, Stevens and Lowery",
+        "Product": "Product4",
+        "Category": "A",
+        "Quantity": 36,
+        "Unit_Price": 36.39,
+        "Region": "East",
+        "TotalMoney": 1310.04
+    },
+    {
+        "Date": "8/4/2024",
+        "Client": "Edwards, Ramos and Diaz",
+        "Product": "Product5",
+        "Category": "B",
+        "Quantity": 46,
+        "Unit_Price": 16.26,
+        "Region": "South",
+        "TotalMoney": 747.96
+    },
+    {
+        "Date": "1/9/2025",
+        "Client": "Khan-Sullivan",
+        "Product": "Product3",
+        "Category": "A",
+        "Quantity": 15,
+        "Unit_Price": 87.98,
+        "Region": "West",
+        "TotalMoney": 1319.7
+    },
+    {
+        "Date": "12/23/2024",
+        "Client": "Howard Inc",
+        "Product": "Product3",
+        "Category": "D",
+        "Quantity": 41,
+        "Unit_Price": 85.07,
+        "Region": "South",
+        "TotalMoney": 3487.87
+    },
+    {
+        "Date": "3/17/2024",
+        "Client": "Madden Inc",
+        "Product": "Product3",
+        "Category": "C",
+        "Quantity": 14,
+        "Unit_Price": 70.32,
+        "Region": "North",
+        "TotalMoney": 984.48
+    },
+    {
+        "Date": "4/29/2024",
+        "Client": "Mason Inc",
+        "Product": "Product5",
+        "Category": "B",
+        "Quantity": 35,
+        "Unit_Price": 75.62,
+        "Region": "South",
+        "TotalMoney": 2646.7
+    },
+    {
+        "Date": "1/31/2024",
+        "Client": "Anderson, Smith and Munoz",
+        "Product": "Product4",
+        "Category": "D",
+        "Quantity": 18,
+        "Unit_Price": 99.06,
+        "Region": "South",
+        "TotalMoney": 1783.08
+    },
+    {
+        "Date": "2/1/2024",
+        "Client": "Rose, Hall and Woods",
+        "Product": "Product3",
+        "Category": "A",
+        "Quantity": 15,
+        "Unit_Price": 83.96,
+        "Region": "East",
+        "TotalMoney": 1259.4
+    },
+    {
+        "Date": "11/4/2024",
+        "Client": "Herrera, Lamb and Scott",
+        "Product": "Product4",
+        "Category": "C",
+        "Quantity": 5,
+        "Unit_Price": 28.99,
+        "Region": "East",
+        "TotalMoney": 144.95
+    },
+    {
+        "Date": "2/21/2024",
+        "Client": "Lee Inc",
+        "Product": "Product2",
+        "Category": "D",
+        "Quantity": 26,
+        "Unit_Price": 89.62,
+        "Region": "West",
+        "TotalMoney": 2330.12
+    },
+    {
+        "Date": "10/4/2024",
+        "Client": "Roberts LLC",
+        "Product": "Product2",
+        "Category": "C",
+        "Quantity": 9,
+        "Unit_Price": 32.2,
+        "Region": "East",
+        "TotalMoney": 289.8
+    },
+    {
+        "Date": "11/23/2024",
+        "Client": "Oconnell PLC",
+        "Product": "Product5",
+        "Category": "D",
+        "Quantity": 38,
+        "Unit_Price": 45.95,
+        "Region": "South",
+        "TotalMoney": 1746.1
+    },
+    {
+        "Date": "9/2/2024",
+        "Client": "Meyer Inc",
+        "Product": "Product2",
+        "Category": "D",
+        "Quantity": 6,
+        "Unit_Price": 78.02,
+        "Region": "North",
+        "TotalMoney": 468.12
+    },
+    {
+        "Date": "10/17/2024",
+        "Client": "Booth and Sons",
+        "Product": "Product2",
+        "Category": "B",
+        "Quantity": 44,
+        "Unit_Price": 47.99,
+        "Region": "North",
+        "TotalMoney": 2111.56
+    },
+    {
+        "Date": "6/26/2024",
+        "Client": "Simon LLC",
+        "Product": "Product4",
+        "Category": "D",
+        "Quantity": 39,
+        "Unit_Price": 99.65,
+        "Region": "East",
+        "TotalMoney": 3886.35
+    },
+    {
+        "Date": "11/8/2024",
+        "Client": "Johnson-Johnson",
+        "Product": "Product5",
+        "Category": "A",
+        "Quantity": 44,
+        "Unit_Price": 74.86,
+        "Region": "East",
+        "TotalMoney": 3293.84
+    },
+    {
+        "Date": "11/18/2024",
+        "Client": "Navarro LLC",
+        "Product": "Product3",
+        "Category": "A",
+        "Quantity": 19,
+        "Unit_Price": 49.13,
+        "Region": "West",
+        "TotalMoney": 933.47
+    },
+    {
+        "Date": "8/1/2024",
+        "Client": "Warren LLC",
+        "Product": "Product1",
+        "Category": "C",
+        "Quantity": 33,
+        "Unit_Price": 78.58,
+        "Region": "North",
+        "TotalMoney": 2593.14
+    },
+    {
+        "Date": "3/14/2024",
+        "Client": "Tucker-Crosby",
+        "Product": "Product3",
+        "Category": "B",
+        "Quantity": 10,
+        "Unit_Price": 43.65,
+        "Region": "South",
+        "TotalMoney": 436.5
+    },
+    {
+        "Date": "4/4/2024",
+        "Client": "Nolan, Leonard and Wright",
+        "Product": "Product5",
+        "Category": "A",
+        "Quantity": 39,
+        "Unit_Price": 39.17,
+        "Region": "North",
+        "TotalMoney": 1527.63
+    },
+    {
+        "Date": "3/14/2024",
+        "Client": "Hayes LLC",
+        "Product": "Product1",
+        "Category": "C",
+        "Quantity": 20,
+        "Unit_Price": 31.55,
+        "Region": "South",
+        "TotalMoney": 631.0
+    },
+    {
+        "Date": "5/30/2024",
+        "Client": "Phelps, Ballard and Ali",
+        "Product": "Product5",
+        "Category": "A",
+        "Quantity": 6,
+        "Unit_Price": 75.87,
+        "Region": "North",
+        "TotalMoney": 455.22
+    },
+    {
+        "Date": "1/6/2025",
+        "Client": "Myers, Lynch and Farmer",
+        "Product": "Product5",
+        "Category": "B",
+        "Quantity": 9,
+        "Unit_Price": 69.38,
+        "Region": "South",
+        "TotalMoney": 624.42
+    },
+    {
+        "Date": "1/24/2024",
+        "Client": "Wells-Johnson",
+        "Product": "Product3",
+        "Category": "D",
+        "Quantity": 14,
+        "Unit_Price": 93.6,
+        "Region": "South",
+        "TotalMoney": 1310.4
+    },
+    {
+        "Date": "7/14/2024",
+        "Client": "Davidson, Patterson and Phillips",
+        "Product": "Product3",
+        "Category": "D",
+        "Quantity": 43,
+        "Unit_Price": 68.49,
+        "Region": "West",
+        "TotalMoney": 2945.07
+    },
+    {
+        "Date": "12/29/2024",
+        "Client": "Miller, Smith and Wilcox",
+        "Product": "Product5",
+        "Category": "D",
+        "Quantity": 8,
+        "Unit_Price": 32.31,
+        "Region": "North",
+        "TotalMoney": 258.48
+    },
+    {
+        "Date": "1/28/2024",
+        "Client": "Brown, Harper and West",
+        "Product": "Product3",
+        "Category": "A",
+        "Quantity": 38,
+        "Unit_Price": 59.85,
+        "Region": "South",
+        "TotalMoney": 2274.3
+    },
+    {
+        "Date": "6/25/2024",
+        "Client": "Gay-Welch",
+        "Product": "Product1",
+        "Category": "A",
+        "Quantity": 46,
+        "Unit_Price": 66.8,
+        "Region": "South",
+        "TotalMoney": 3072.8
+    },
+    {
+        "Date": "1/24/2023",
+        "Client": "Alexander Ruiz",
+        "Product": "Tampones Femeninos",
+        "Category": "A",
+        "Quantity": 254,
+        "Unit_Price": 2.99,
+        "Region": "South",
+        "TotalMoney": 1212121212.46
+    }
+]
